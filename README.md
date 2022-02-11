@@ -20,7 +20,7 @@ My work/personal project usually involves electronics, programming, and 3D desig
 ## Tools I Usually Use ⌨️ :
 <!-- Use devicon.dev or use logo from software, make sure width is 60px -->
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" href="https://www.arduino.cc/" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60"/>
     <img src= "img\Cura.ico" width=60/>
     <img src= "img\F360.jpg" width=60/>

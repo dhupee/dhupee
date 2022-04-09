@@ -38,7 +38,7 @@ My work/personal project usually involves electronics, programming, and 3D desig
 <div>
 
 <div align="left">
-This list might expand hehe😉, I might learn another thing in the future like Web Dev Holy Trinity of HTML, CSS, and JS since I think it will be useful in the future, this Readme also require HTML so.....very useful indeed. 😉
+This list might expand hehe😉, I might learn another thing in the future like Web Dev Holy Trinity of HTML, CSS, and JS since I think it will be useful in the future,  this Readme also require HTML so.....very useful indeed. Or maybe even Flutter since I think it should be useful to make app/webapp but I don't want to learn every native languages😉 IDK, I'll learn slowly anyway
 
 My skills on tools above are not very polished just yet, but learning new things won't hurt. 
 <div>

@@ -47,7 +47,7 @@ My skills on tools above are not very polished just yet, but learning new things
 ## My Medium Articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/1" alt="Recent Article 1"> 
 
 ---
 ## My Social Media 📱

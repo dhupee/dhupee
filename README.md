@@ -44,13 +44,21 @@ My skills on tools above are not very polished just yet, but learning new things
 <div>
 
 ---
+## My Medium Articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dhupee/1" alt="Recent Article 1"> 
+
+---
 ## My Social Media 📱
 [Instagram](https://www.instagram.com/dhupee_haj/)
 
 [LinkedIn](https://www.linkedin.com/in/daffa-haj-tsaqif-a5a341121/)
 
 [Thangs](https://thangs.com/user/dhupee_haj/profile)
-    
+
+[Medium](https://medium.com/@dhupee)
+
 [MyAnimeList](https://myanimelist.net/profile/dhupee)
 
 I also have LINE and Discord, but I prefer not to share it hehe.

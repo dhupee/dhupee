@@ -56,7 +56,9 @@ My skills on tools above are not very polished just yet, but learning new things
 [LinkedIn](https://www.linkedin.com/in/daffa-haj-tsaqif-a5a341121/)
 
 [Thangs](https://thangs.com/user/dhupee_haj/profile)
-    
+
+[Medium](https://medium.com/@dhupee)
+
 [MyAnimeList](https://myanimelist.net/profile/dhupee)
 
 I also have LINE and Discord, but I prefer not to share it hehe.

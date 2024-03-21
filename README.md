@@ -30,7 +30,6 @@ My work/personal project usually involves electronics, programming mainly on mac
     <a href= "https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"width="40"></a>
     <a href= "https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"></a>
     <a href="https://ultimaker.com/software/ultimaker-cura"><img src= "img\Cura.ico" width=40></a>
-    <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=40></a>
     <a href="https://www.autodesk.com/products/fusion-360/personal"><img src= "img\F360.jpg" width=40></a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"></a>
     <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="40"></a>
@@ -41,8 +40,7 @@ My work/personal project usually involves electronics, programming mainly on mac
     <a href="https://www.kicad.org/"><img src="img\Kicad.png"></a>
     <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
     <a href="https://www.markdownguide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/></a>
-    <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"></a>
-    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40"></a>
+    <a href="https://platformio.org/"><img src="img\PlatformIO.png" width="40"></a>
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"></a>
     <a href="https://www.raspberrypi.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"></a>
     <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"></a>
@@ -58,19 +56,6 @@ My skills on tools above are not very polished just yet, but learning new things
 
 ---
 
-## My stats
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=dhupee&theme=dracula">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=dhupee&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dhupee&hide=php&theme=dracula">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhupee&hide=php&theme=dracula" />
-</a>
-</div>
-
----
-
 ## My Social Media 📱
 
 [Instagram](https://www.instagram.com/dhupee_haj/)
@@ -81,7 +66,7 @@ My skills on tools above are not very polished just yet, but learning new things
 
 [Thangs](https://thangs.com/user/dhupee_haj/profile)
 
-[Dev.to](https://dev.to/dhupee)
+[Medium](https://medium.com/@dhupee)
 
 I also have LINE and Discord, but I prefer not to share it hehe.
 

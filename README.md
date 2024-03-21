@@ -4,9 +4,11 @@
 hey there, welcome to weeb's lair!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 いらっしゃい!
+
 <h3>
 
 ---
+
 ## Who Am I? 🙋
 
 My name is Daffa Haj Tsaqif but people called me Dhupee. I am a student from Universitas Gadjah Mada, Majoring in Electronics and Instrumentation Science. 🔌
@@ -16,11 +18,13 @@ I like to explore what can I do in my field and learn how to expand it further.
 I'm a bit of jack of all trade coz my bad habit on try anything i'm interested, so sometimes my knowledge is a bit shallow.
 
 ## What I Usually do?
+
 My work/personal project usually involves electronics, programming mainly on machine learning, and 3D design/printing, but recently im interested in Cybersecurity so i will dive in that area as well
 
 ---
 
 ## Tools I Usually Use ⌨️ :
+
 <!-- Use devicon.dev or use logo from software, make sure width is 40px -->
 <div align="center">
     <a href= "https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"width="40"></a>
@@ -48,11 +52,25 @@ My work/personal project usually involves electronics, programming mainly on mac
 <div align="left">
 This list might expand hehe😉, I might learn another thing in the future like Web Dev Holy Trinity of HTML, CSS, and JS since I think it will be useful in the future,  this Readme also require HTML so.....very useful indeed. Or maybe even Flutter since I think it should be useful to make app/webapp but I don't want to learn every native languages😉 IDK, I'll learn slowly anyway
 
-My skills on tools above are not very polished just yet, but learning new things won't hurt. 
+My skills on tools above are not very polished just yet, but learning new things won't hurt.
+
 <div>
 
 ---
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=dhupee&theme=dracula">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=dhupee&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dhupee&hide=php&theme=dracula">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhupee&hide=php&theme=dracula" />
+</a>
+</div>
+
+---
+
 ## My Social Media 📱
+
 [Instagram](https://www.instagram.com/dhupee_haj/)
 
 [Twitter](https://twitter.com/dhupee_haj)
@@ -64,6 +82,7 @@ My skills on tools above are not very polished just yet, but learning new things
 [Dev.to](https://dev.to/dhupee)
 
 I also have LINE and Discord, but I prefer not to share it hehe.
+
 <h4>
 
 <div>

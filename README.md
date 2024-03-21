@@ -58,6 +58,8 @@ My skills on tools above are not very polished just yet, but learning new things
 
 ---
 
+## My stats
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=dhupee&theme=dracula">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=dhupee&count_private=true&show_icons=true&theme=dracula" />

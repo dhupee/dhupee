@@ -11,7 +11,7 @@ hey there, welcome to weeb's lair!
 
 ## Who Am I? 🙋
 
-My name is Daffa Haj Tsaqif but people called me Dhupee. I am a student from Universitas Gadjah Mada, Majoring in Electronics and Instrumentation Science. 🔌
+My name is Daffa Haj Tsaqif but people called me Dhupee. I recently graduate from Universitas Gadjah Mada, Majoring in Electronics and Instrumentation Science. 🔌
 
 I like to explore what can I do in my field and learn how to expand it further.
 
@@ -19,7 +19,7 @@ I'm a bit of jack of all trade coz my bad habit on try anything i'm interested, 
 
 ## What I Usually do?
 
-My work/personal project usually involves electronics, programming mainly on machine learning, and 3D design/printing, but recently im interested in Cybersecurity so i will dive in that area as well
+My work/personal project usually involves electronics, programming mainly on embedded systems, backend, and machine learning, and also doing 3D design/printing, but I also try to learn frontend, even though its hard af.
 
 ---
 

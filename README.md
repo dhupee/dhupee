@@ -62,9 +62,9 @@ My work/personal project usually involves these things
 <div>
 
 <div align="left">
-This list might expand hehe😉, I might learn another thing in the future like Web Dev Holy Trinity of HTML, CSS, and JS since I think it will be useful in the future,  this Readme also require HTML so.....very useful indeed. Or maybe even Flutter since I think it should be useful to make app/webapp but I don't want to learn every native languages😉 IDK, I'll learn slowly anyway
+My justification on using this stacks is simply because it's pragmatic enough for my jobs and my situation, and utilizing the most from one or two languages.
 
-My skills on tools above are not very polished just yet, but learning new things won't hurt.
+After many tries, I just dont like Web tech, so I avoid it a lot.
 <div>
 
 ---
@@ -79,7 +79,7 @@ My skills on tools above are not very polished just yet, but learning new things
 
 [Thangs](https://thangs.com/user/dhupee_haj/profile)
 
-[Medium](https://medium.com/@dhupee)
+[Dev.to](https://dev.to/dhupee/)
 
 I also have LINE and Discord, but I prefer not to share it hehe.
 

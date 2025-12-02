@@ -15,35 +15,47 @@ My name is Daffa Haj Tsaqif but people called me Dhupee. I recently graduate fro
 
 I like to explore what can I do in my field and learn how to expand it further.
 
-I'm a bit of jack of all trade coz my bad habit on try anything i'm interested, so sometimes my knowledge is a bit shallow.
+I'm a bit of jack of all trade coz my bad habit on try anything I'm interested, so sometimes my knowledge is a bit shallow, but it allows me to be very versatile in many projects
 
 ## What I Usually do?
 
-My work/personal project usually involves electronics, programming mainly on embedded systems, backend, and machine learning, and also doing 3D design/printing, but I also try to learn frontend, even though its hard af.
+My work/personal project usually involves these things
+
+- Electronics like PCB Designs
+- Embedded Systems, like Arduino, ESP32, or Pi Pico
+- Machine Learning especially related to embedded ML or Computer Vision
+- Automation with Python or Bash
+- App Development with more emphasis on the Backend and Flutter
+- Simple parametric 3D Designs and Printing
+- Linux stuff, especially if it involved NixOS or Docker
 
 ---
 
-## Tools I Usually Use ⌨️ :
+## Tools I Usually Use ⌨️
 
 <!-- Use devicon.dev or use logo from software, make sure width is 40px -->
 <div align="center">
     <a href= "https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"width="40"></a>
     <a href= "https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"></a>
-    <a href="https://ultimaker.com/software/ultimaker-cura"><img src= "img\Cura.ico" width=40></a>
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width=40></a>
-    <a href="https://www.autodesk.com/products/fusion-360/personal"><img src= "img\F360.jpg" width=40></a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"></a>
     <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="40"></a>
+    <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40"></a>
     <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"></a>
     <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"></a>
     <a href="https://inkscape.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40"></a>
     <a href="https://jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"></a>
-    <a href="https://www.kicad.org/"><img src="img\Kicad.png"></a>
+    <a href="https://www.kicad.org/"><img src="img\Kicad.png" width="40"></a>
     <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
+    <a href="https://www.lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40"/></a>
     <a href="https://www.markdownguide.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/></a>
+    <a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40"></a>
+    <a href="https://nixos.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="40"></a>
     <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"></a>
+    <a href="https://github.com/OrcaSlicer/OrcaSlicer"><img src="https://github.com/OrcaSlicer/OrcaSlicer/raw/refs/heads/main/resources/images/OrcaSlicer.svg" width="40"></a>
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40"></a>
     <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40"></a>
+    <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40"></a>
     <a href="https://www.raspberrypi.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"></a>
     <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"></a>
     <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"></a>
@@ -53,7 +65,6 @@ My work/personal project usually involves electronics, programming mainly on emb
 This list might expand hehe😉, I might learn another thing in the future like Web Dev Holy Trinity of HTML, CSS, and JS since I think it will be useful in the future,  this Readme also require HTML so.....very useful indeed. Or maybe even Flutter since I think it should be useful to make app/webapp but I don't want to learn every native languages😉 IDK, I'll learn slowly anyway
 
 My skills on tools above are not very polished just yet, but learning new things won't hurt.
-
 <div>
 
 ---

@@ -1,0 +1,7 @@
+site_name: dhupee's notebook
+repo_url: https://github.com/dhupee
+repo_name: dhupee
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github

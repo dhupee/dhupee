@@ -1,7 +1,31 @@
-site_name: dhupee's notebook
+site_name: Dhupee's Dotebook
 repo_url: https://github.com/dhupee
 repo_name: dhupee
+
 theme:
   name: material
   icon:
     repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.tabs.selection
+    - navigation.footer
+
+plugins:
+  - blog
+  - search
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Blog: blog/index.md
+
+# TODO: Color pallete
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/dhupee_haj
+
+copyright: Copyright &copy; 2026 Daffa Haj Tsaqif

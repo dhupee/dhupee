@@ -1,9 +1,130 @@
---- 
-hide: 
+---
+hide:
   - navigation
   - toc
 ---
 
-<!-- TODO: Edit this home page with HTML -->
+<!--
+  Homepage designed for MkDocs Material.
+  Uses cards, grids, and custom styling.
+-->
 
-# Sup Y'All
+<div class="hero" style="text-align: center; padding: 2rem 0;">
+  <img src="img/dhupee.jpg" alt="Dhupee" style="border-radius: 50%; width: 150px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <h1>Hey there, I'm Dhupee 👋</h1>
+  <p style="font-size: 1.2rem; max-width: 600px; margin: 1rem auto;">
+    Electronics & Instrumentation graduate | Embedded tinkerer | ML enthusiast | Linux lover
+  </p>
+  <p>
+    <a href="https://www.instagram.com/dhupee_haj/" class="md-button">Instagram</a>
+    <a href="https://twitter.com/dhupee_haj" class="md-button">Twitter</a>
+    <a href="https://www.linkedin.com/in/dhupee/" class="md-button">LinkedIn</a>
+    <a href="https://dev.to/dhupee/" class="md-button">Dev.to</a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm Daffa Haj Tsaqif – people call me Dhupee. I recently graduated from Universitas Gadjah Mada in Electronics and Instrumentation. I love exploring how hardware and software intersect, and I’m always trying out new things (which makes me a jack‑of‑all‑trades, master of none – but it keeps projects fun!).
+
+My work and personal projects usually involve:
+
+- **Electronics** – PCB design, KiCad  
+- **Embedded Systems** – Arduino, ESP32, Pi Pico  
+- **Machine Learning** – TinyML, Computer Vision  
+- **Automation** – Python, Bash  
+- **App Development** – Backend (FastAPI, Go), Flutter  
+- **3D Design & Printing** – parametric models with OrcaSlicer  
+- **Linux & DevOps** – NixOS, Docker  
+
+---
+
+## 📝 Latest Blog Posts
+
+<div class="grid cards" markdown>
+
+-   __[First Post Title](./blog/first-post.md)__  
+    A short teaser about what this post covers.  
+    *Published: March 15, 2025*
+
+-   __[Another Interesting Topic](./blog/another.md)__  
+    A quick summary to entice readers.  
+    *Published: March 1, 2025*
+
+-   __[Yet Another Post](./blog/yet-another.md)__  
+    Catchy description goes here.  
+    *Published: February 20, 2025*
+
+</div>
+
+<p align="right">
+  <a href="./blog/" class="md-button md-button--primary">View all posts →</a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div class="grid cards" markdown>
+
+-   :material-chip: __[Smart Sensor Node](./projects/sensor-node.md)__  
+    LoRa‑based environmental monitor with solar power – built with ESP32 and PlatformIO.
+
+-   :material-robot: __[TinyML Gesture Recognizer](./projects/tinyml-gesture.md)__  
+    On‑device gesture classification using TensorFlow Lite Micro on an Arduino Nano 33 BLE.
+
+-   :material-printer-3d: __[Parametric Filament Spool Holder](./projects/spool-holder.md)__  
+    3D‑printable design that adapts to any spool width, shared on [Thangs](https://thangs.com/user/dhupee_haj/profile).
+
+-   :material-docker: __[Homelab Dashboard](./projects/homelab-dashboard.md)__  
+    Self‑hosted dashboard using NixOS, Docker, and FastAPI to monitor my home server.
+
+</div>
+
+<p align="right">
+  <a href="./projects/" class="md-button md-button--primary">See all projects →</a>
+</p>
+
+---
+
+## 🛠️ Tools I Use
+
+<div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(40px, 60px)); gap: 1rem; justify-content: center; padding: 1rem 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" alt="NixOS" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40">
+  <img src="img/Kicad.png" alt="KiCad" width="40">
+  <img src="https://github.com/OrcaSlicer/OrcaSlicer/raw/refs/heads/main/resources/images/OrcaSlicer.svg" alt="OrcaSlicer" width="40">
+</div>
+
+> I pick tools that are pragmatic for the job. You’ll rarely see me using pure web tech – it’s just not my cup of tea.
+
+---
+
+## 📬 Get in Touch
+
+I'm active on the platforms below. I also have LINE and Discord – feel free to ask for them if we’ve collaborated before!
+
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem;">
+  <a href="https://www.instagram.com/dhupee_haj/" style="text-decoration: none;">📷 Instagram</a>
+  <a href="https://twitter.com/dhupee_haj" style="text-decoration: none;">🐦 Twitter</a>
+  <a href="https://www.linkedin.com/in/dhupee/" style="text-decoration: none;">🔗 LinkedIn</a>
+  <a href="https://thangs.com/user/dhupee_haj/profile" style="text-decoration: none;">🧵 Thangs</a>
+  <a href="https://dev.to/dhupee/" style="text-decoration: none;">📄 Dev.to</a>
+</div>
+
+---
+
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="https://media.giphy.com/media/12noFudALzfIynHuUp/giphy.gif" alt="Funny GIF" style="max-width: 100%; border-radius: 8px;">
+  <p><em>Thanks for stopping by!</em></p>
+</div>

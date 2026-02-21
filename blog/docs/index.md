@@ -10,7 +10,7 @@ hide:
 -->
 
 <div class="hero" style="text-align: center; padding: 2rem 0;">
-  <img src="img/dhupee.jpg" alt="Dhupee" style="border-radius: 50%; width: 150px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="../../img/dhupee.jpg" alt="Dhupee" style="border-radius: 50%; width: 150px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <h1>Hey there, I'm Dhupee 👋</h1>
   <p style="font-size: 1.2rem; max-width: 600px; margin: 1rem auto;">
     Electronics & Instrumentation graduate | Embedded tinkerer | ML enthusiast | Linux lover
@@ -45,15 +45,15 @@ My work and personal projects usually involve:
 
 <div class="grid cards" markdown>
 
--   __[First Post Title](./blog/first-post.md)__  
+- **[First Post Title](./blog/first-post.md)**  
     A short teaser about what this post covers.  
     *Published: March 15, 2025*
 
--   __[Another Interesting Topic](./blog/another.md)__  
+- **[Another Interesting Topic](./blog/another.md)**  
     A quick summary to entice readers.  
     *Published: March 1, 2025*
 
--   __[Yet Another Post](./blog/yet-another.md)__  
+- **[Yet Another Post](./blog/yet-another.md)**  
     Catchy description goes here.  
     *Published: February 20, 2025*
 
@@ -69,16 +69,16 @@ My work and personal projects usually involve:
 
 <div class="grid cards" markdown>
 
--   :material-chip: __[Smart Sensor Node](./projects/sensor-node.md)__  
+- :material-chip: **[Smart Sensor Node](./projects/sensor-node.md)**  
     LoRa‑based environmental monitor with solar power – built with ESP32 and PlatformIO.
 
--   :material-robot: __[TinyML Gesture Recognizer](./projects/tinyml-gesture.md)__  
+- :material-robot: **[TinyML Gesture Recognizer](./projects/tinyml-gesture.md)**  
     On‑device gesture classification using TensorFlow Lite Micro on an Arduino Nano 33 BLE.
 
--   :material-printer-3d: __[Parametric Filament Spool Holder](./projects/spool-holder.md)__  
+- :material-printer-3d: **[Parametric Filament Spool Holder](./projects/spool-holder.md)**  
     3D‑printable design that adapts to any spool width, shared on [Thangs](https://thangs.com/user/dhupee_haj/profile).
 
--   :material-docker: __[Homelab Dashboard](./projects/homelab-dashboard.md)__  
+- :material-docker: **[Homelab Dashboard](./projects/homelab-dashboard.md)**  
     Self‑hosted dashboard using NixOS, Docker, and FastAPI to monitor my home server.
 
 </div>
@@ -86,27 +86,6 @@ My work and personal projects usually involve:
 <p align="right">
   <a href="./projects/" class="md-button md-button--primary">See all projects →</a>
 </p>
-
----
-
-## 🛠️ Tools I Use
-
-<div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(40px, 60px)); gap: 1rem; justify-content: center; padding: 1rem 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" alt="NixOS" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40">
-  <img src="img/Kicad.png" alt="KiCad" width="40">
-  <img src="https://github.com/OrcaSlicer/OrcaSlicer/raw/refs/heads/main/resources/images/OrcaSlicer.svg" alt="OrcaSlicer" width="40">
-</div>
-
-> I pick tools that are pragmatic for the job. You’ll rarely see me using pure web tech – it’s just not my cup of tea.
 
 ---
 
